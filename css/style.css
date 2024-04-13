@@ -396,6 +396,47 @@ mark,
   max-width: 100%;
   height: auto; }
 
+  .fa-github{
+
+color: #000;
+font-size: 100px;
+
+
+  }
+  .fa-github:hover{
+
+    color: purple;
+  }
+
+  li:hover{
+
+color: blueviolet;
+
+    
+  }
+
+  .icon-twitter:hover{
+
+    color: gold !important;
+  }
+  .icon-facebook:hover{
+
+    color: gold !important;
+  }
+  .icon-instagram:hover{
+
+    color: gold !important;
+  }
+  .icon-github:hover{
+
+    color: gold !important;
+  }
+.p-4:hover{
+
+background-color: rgba(128, 128, 128, 0.269);
+
+
+}
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -9775,3 +9816,6 @@ textarea.form-control {
   background-color: #4070f4;
   transform: translateX(-50%) rotate(45deg);
 }
+
+
+
